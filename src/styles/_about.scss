@@ -13,6 +13,15 @@
   }
 }
 
+.left-image {
+  float: left;
+  margin-right: 10px; 
+}
+
+.right-image {
+  float: right;
+  margin-left: 10px; 
+}
 .tech {
   margin: 10px;
   flex: 1 1 0;
