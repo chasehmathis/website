@@ -5,6 +5,7 @@
     width: 90%;
     max-width: 960px;
     margin: 0 auto;
+    font-size: 120%;
     @media only screen and (min-width: $cut) {
       width: 80%;
     }
@@ -47,7 +48,7 @@
   .images-right {
     @media only screen and (min-width: $cut) {
       float: right;
-      width: 48%;
+      width: 10%;
     }
     img {
       @media only screen and (min-width: $cut) {
